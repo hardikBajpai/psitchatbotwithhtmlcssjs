@@ -10,8 +10,8 @@ const knowledgeBase = {
         "Hello! PSIT ke baare mein koi sawaal hai? 🤗",
         "Namaste! PSIT ke baare mein jaanne ka mann hai? 😃",
         "Hello! PSIT ke baare mein kuch jaanne ka mann hai? 😊"
+	    
     ],
-
 
 
 
@@ -129,6 +129,8 @@ const keywordAliases = {
     "hostel": ["hostel", "room", "stay", "accommodation"],
     "fees": ["fees", "fee", "charges", "cost", "pay", "kitna"],
     "contact": ["contact", "phone", "email", "number", "call"]
+
+
 };
 
 // Direct phrase match answers
